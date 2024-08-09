@@ -1,8 +1,5 @@
 <?php
-// $servername = "mysql640.db.sakura.ne.jp"; // さくらのサーバー名に変更
-// $username = 'mochizukihideto';           // さくらのデータベースユーザー名
-// $password = 'mystamp_01';                  // さくらのデータベースパスワード
-// $dbname = "mochizukihideto_lms_db";      // 新しいデータベース名
+
 
 
 $servername = "localhost";//localhostで作っていく時はこっちを反映し、さくらにあげる時は上に切り替える
